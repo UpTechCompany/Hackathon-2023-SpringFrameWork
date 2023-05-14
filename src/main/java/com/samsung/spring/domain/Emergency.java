@@ -32,7 +32,10 @@ public class Emergency {
     @Column(name = "photoUrl")
     private String photoUrl;
 
-    @Column(name = "locationSTR")
-    private String locationSTR;
+    @Column(name = "latitude")
+    private Double latitude;
+
+    @Column(name = "longitude")
+    private Double longitude;
 }
 

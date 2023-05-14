@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7853bb6-7900-477b-9b47-dc2d9cdcd18c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/spring/dao/EmergencyDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/spring/domain/Emergency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/spring/service/EmergencyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samsung/spring/service/EmergencyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/samsung/spring/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samsung/spring/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samsung/spring/domain/Emergency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samsung/spring/domain/Emergency.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2OUHIqz38565xvpYwmxBYJnatFV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +42,9 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tenshi/Documents/Intellij IDEA Projects/ktor-test&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
